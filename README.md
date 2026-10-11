@@ -52,7 +52,7 @@ ExamIntelligenceAssistant/
 4. Run the dashboard:
 
    ```bash
-   python -m streamlit run dashboard.py
+   py -3.12 -m streamlit run dashboard.py
    ```
 
 5. Open the local URL displayed in the terminal.
